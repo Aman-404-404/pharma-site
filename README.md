@@ -6,7 +6,7 @@ A modern, full-stack online pharmacy website built with **Next.js 16**, **TypeSc
 
 ## 🌐 Live Demo
 
-[https://pharma-site-amber.vercel.app](https://pharma-site-amber.vercel.app)
+[https://pharma-site-amber.vercel.app](https://pharma-site-azure.vercel.app/)
 
 ---
 
