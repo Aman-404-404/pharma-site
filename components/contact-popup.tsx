@@ -66,7 +66,7 @@ export default function ContactPopup() {
             className="inline-flex items-center gap-2.5 bg-gradient-to-r from-primary to-secondary text-primary-foreground font-semibold px-7 py-3.5 rounded-full text-base shadow-md shadow-primary/25 hover:shadow-lg hover:shadow-primary/40 hover:-translate-y-0.5 transition-all duration-200"
           >
             <Phone size={17} />
-             8182549423
+             6395345315
           </a>
         </div>
 
